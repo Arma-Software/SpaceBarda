@@ -1,13 +1,3 @@
-<img src="https://torn.space/img/harrlogo.png">
-
-<h3 align="center">A somewhat popular online space MMO.</h3>
-<br>
-<p align="center">
-    <img src="https://img.shields.io/github/contributors/TornDotSpace/Torn?style=for-the-badge&color=ff1f44">
-    <img src="https://img.shields.io/github/last-commit/TornDotSpace/Torn?style=for-the-badge&color=ff1f44">
-    <img src="https://img.shields.io/github/languages/code-size/TornDotSpace/Torn?style=for-the-badge&color=ff1f44">
-</p>
-
 ## Prerequisites
 * Node.JS v14+
 * NPM v7
@@ -28,7 +18,7 @@ npm i -g npm
 * Run the shell script to start the server!
 ```sh
 ./start_dev_server.sh # UNIX
-./devServer-win.sh # Windows
+# Depricated ./devServer-win.sh # Windows
 ```
 * Navigate to `http://localhost:7301` in your browser, and you should be able to play.
 
